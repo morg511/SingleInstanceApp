@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\SingleInstanceApp\bin\Debug\net10.0\SingleInstanceApp.exe
+C:\Users\1\Desktop\SingleInstanceApp\bin\Debug\net10.0\SingleInstanceApp.deps.json
+C:\Users\1\Desktop\SingleInstanceApp\bin\Debug\net10.0\SingleInstanceApp.runtimeconfig.json
+C:\Users\1\Desktop\SingleInstanceApp\bin\Debug\net10.0\SingleInstanceApp.dll
+C:\Users\1\Desktop\SingleInstanceApp\bin\Debug\net10.0\SingleInstanceApp.pdb
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.AssemblyInfo.cs
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.sourcelink.json
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.dll
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\refint\SingleInstanceApp.dll
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.pdb
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\SingleInstanceApp.genruntimeconfig.cache
+C:\Users\1\Desktop\SingleInstanceApp\obj\Debug\net10.0\ref\SingleInstanceApp.dll
